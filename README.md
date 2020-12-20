@@ -1,2 +1,2 @@
-# IBM_Coursera_ML_Capstone
-This repository contains the capstone project for Machine Learning with Python course for  IBM Data Science Professional Certificate on Coursera.
+# Machine Learning with Python - The Best Classifier!
+This repository contains the final project for the course - Machine Learning with Python - on Coursera.
